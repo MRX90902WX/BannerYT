@@ -82,9 +82,9 @@ fi
 
      echo ''
      echo ''
-     echo -e '          \e[1;31m<\e[0m  \e[1;30mHâcķìnG €Tícø\e[0m \e[1;31m>\e[0m'
+     echo -e '           \e[1;31m<\e[0m  \e[1;30mHâcķìnG €Tícø\e[0m \e[1;31m>\e[0m'
      echo ''
-     echo -e '            \e[1;31m<\e[0m \e[1;30m$a\e[0m \e[1;31m>\e[0m'
+     echo -e '             \e[1;31m<\e[0m \e[1;30m$a\e[0m \e[1;31m>\e[0m'
      echo ''
 
 echo ''
